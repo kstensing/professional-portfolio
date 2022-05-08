@@ -49,9 +49,9 @@ const Project = ({ index }) => {
           <a href={projects[index].linkApplication} >{projects[index].title}</a>
           <a href={projects[index].linkRepo}>Github Repository</a> 
           <img
-          src={require(`../assets/${projects[index].image}.JPG`)}
+          src={require(`../assets/${projects[index].image}.jpg`)}
           alt={projects[index].image}
-          className="img-thumbnail mx-1"
+          className="mx-1"
           key={projects[index].image}
           />
 

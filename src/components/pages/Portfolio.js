@@ -6,8 +6,11 @@ function Portfolio() {
   return (
     <section>
       <Project index={0} />
-
-      {/* <Project {projects[1]} /> */}
+      <Project index={1} />
+      <Project index={2} /> 
+      <Project index={3} />
+      <Project index={4} />
+      <Project index={5} />
     </section>
   );
 }
