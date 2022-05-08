@@ -4,10 +4,11 @@ import Resume from './pages/Resume';
 import Portfolio from './pages/Portfolio';
 import Contact from './pages/Contact';
 
-export default function PageContent() {
-   const [currentPage] = useState('Home');
+export default function PageContent({ currentPage }) {
+  // const [currentPage] = useState('Home');
 
   const renderPage = () => {
+    console.log(currentPage)
     if (currentPage === 'About') {
       return <About />;
     }

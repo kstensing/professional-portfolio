@@ -5,15 +5,15 @@ import Nav from './Nav';
 // import Portfolio from './pages/Portfolio';
 // import Contact from './pages/Contact';
 
-export default function Header() {
-    const [currentPage, setCurrentPage] = useState('Home');
-    const handlePageChange = (page) => setCurrentPage(page);
+export default function Header({ handlePageChange, currentPage }) {
+    // const [currentPage, setCurrentPage] = useState('Home');
+    // const handlePageChange = (page) => setCurrentPage(page);
   return (
     
     <div>
-      <h1>kstensing</h1>
+      <h1>Kate Stensing</h1>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
-      {/* {renderPage()} */}
+       {/* {renderPage()} */}
     </div>
   );
 }

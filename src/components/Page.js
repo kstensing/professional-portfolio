@@ -2,10 +2,10 @@ import React from 'react';
 
 import PageContent from './PageContent';
 
-export default function Page() {
+export default function Page({ currentPage }) {
 
   return (
     
-    <PageContent></PageContent>
+    <PageContent currentPage={currentPage}></PageContent>
   );
 }
