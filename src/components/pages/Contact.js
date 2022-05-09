@@ -35,7 +35,10 @@ function Contact() {
 
   return (
     <section>
+      
       <h1 data-testid="h1tag">Contact me</h1>
+      <div>Feel free to send me an email at&nbsp;<a href="mailto:stensingk@gmail.com" target="_blank" rel="noopener noreferrer">stensingk@gmail.com</a></div>
+
       <form className=".ml-1" id="contact-form" onSubmit={handleSubmit}>
         <div className='col-sm-2 col-form-label'>
           <label htmlFor="name">Name:</label>

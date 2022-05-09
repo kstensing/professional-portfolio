@@ -7,7 +7,6 @@ export default function About() {
       <img className='card-img-center screenshot mx-1'
           src={require(`../../assets/portrait.jpg`)}
           alt={("portrait")}
-         
           key={("portrait")}
           />
       <p>

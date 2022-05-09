@@ -5,9 +5,7 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>
-        Download my <a href={"../../assets/resume.pdf"}>resume</a>
-       {/* Download my <DownloadLink src="../../assets/resume.pdf">resume</DownloadLink> */}
-       {/* <a href={projects[index].linkRepo}>Github Repository</a>  */}
+        Download my <a download href="../../assets/resume.pdf">resume</a>
       </p>
       <h2>
         Front-end Proficiencies
