@@ -84,6 +84,10 @@ header a {
   color: var(--light);
 }
 
+footer {
+  text-align: center;
+}
+
 button {
   font-size: 1rem;
   text-decoration: none;
@@ -134,7 +138,7 @@ input:focus {
 
 li {
   list-style: none;
-} */
+} 
 
 nav a:hover {
   text-decoration: none;
