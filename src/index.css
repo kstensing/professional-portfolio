@@ -96,18 +96,18 @@ button {
   background-color: var(--secondary);
 }
 
-/* button:hover {
+button:hover {
   opacity: .8;
-} */
+} 
 
 /* button[disabled] {
   cursor: default;
   opacity: .8;
 } */
 
-/* span[role="img"] {
+span[role="img"] {
   cursor: default;
-} */
+}
 
 form {
   width: 40%;
@@ -126,22 +126,22 @@ input {
   transition: box-shadow 0.2s;
 }
 
-/* input:focus {
+input:focus {
   border: 1px solid var(--secondary);
   box-shadow: 0 0 .25rem rgba(0, 0, 0, .5);
-} */
+}
 
-/* li {
+li {
   list-style: none;
 } */
 
-/* nav a:hover {
+nav a:hover {
   text-decoration: none;
-} */
+} 
 
-/* nav li {
+ nav li {
   cursor: pointer;
-} */
+}
 
 textarea {
 	width: 600px;
