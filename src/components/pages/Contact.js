@@ -36,7 +36,7 @@ function Contact() {
   return (
     <section>
       <h1 data-testid="h1tag">Contact me</h1>
-      <form className='form-group' id="contact-form" onSubmit={handleSubmit}>
+      <form className=".ml-1" id="contact-form" onSubmit={handleSubmit}>
         <div className='col-sm-2 col-form-label'>
           <label htmlFor="name">Name:</label>
           <input className='m-1' type="text" name="name" defaultValue={name} onBlur={handleChange} />
