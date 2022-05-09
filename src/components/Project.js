@@ -42,20 +42,17 @@ const Project = ({ index }) => {
   ];
 
   return (
-    <div>
-      <div className="flex-row">
+      <div className="card mx-auto mb-3">
         
-          <h1 data-testid="h1tag">{projects[index].title}</h1>
-          <a href={projects[index].linkApplication} >{projects[index].title}</a>
-          <a href={projects[index].linkRepo}>Github Repository</a> 
-          <img
+          <h1 className='card-title'>{projects[index].title}</h1>
+          <a className='card-link' href={projects[index].linkApplication} >{projects[index].title}</a>
+          <a className='card-link' href={projects[index].linkRepo}>Github Repository</a> 
+          <img className='card-img-center screenshot mx-1'
           src={require(`../assets/${projects[index].image}.jpg`)}
           alt={projects[index].image}
-          className="mx-1"
+         
           key={projects[index].image}
           />
-
-      </div>
     </div>
   );
 };
