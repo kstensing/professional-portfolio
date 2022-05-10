@@ -42,12 +42,13 @@ const Project = ({ index }) => {
   ];
 
   return (
-      <div className="card mx-auto mb-3">
+      <div className="card">
         
           <h1 className='card-title'>{projects[index].title}</h1>
-          <a className='card-link' href={projects[index].linkApplication} >{projects[index].title}</a>
+          <p><a className='card-link' href={projects[index].linkApplication} >{projects[index].title}</a></p>
+          
           <a className='card-link' href={projects[index].linkRepo}>Github Repository</a> 
-          <img className='card-img-center screenshot mx-1'
+          <img className='screenshot'
           src={require(`../assets/${projects[index].image}.jpg`)}
           alt={projects[index].image}
          

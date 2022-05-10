@@ -6,7 +6,7 @@ export default function Header({ handlePageChange, currentPage }) {
 
   return (
     
-    <div>
+    <div className='header'>
       <h1>Kate Stensing</h1>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
     </div>
