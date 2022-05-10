@@ -3,9 +3,10 @@
   ## Description
   Please take a look at some of my work and get to know me a little better!  If you would like to contact me, please use the contact form or any of my contact methods within the application.
   
-  [Application LINK]()
+  [Application LINK](https://kstensing.github.io/professional-portfolio/)
   
-  ![image]()
+  
+![Capture](https://user-images.githubusercontent.com/62854222/167632788-302bfee8-ebc7-486c-8b14-980091629cf3.JPG)
 
   
 
