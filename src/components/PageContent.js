@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import About from './pages/About';
 import Resume from './pages/Resume';
 import Portfolio from './pages/Portfolio';
