@@ -1,7 +1,7 @@
 # Professional Portfolio
 
   ## Description
-  Please take a look at some of my work and get to know me a little better!  If you would like to contact me, please use the contact form or any of my contact methods within the application.
+  Please take a look at some of my work and get to know me a little better!  If you would like to contact me, please use the contact form or any of my contact methods within the application. This application was created with React and styled with CSS.   
   
   [Application LINK](https://kstensing.github.io/professional-portfolio/)
   
@@ -17,6 +17,7 @@
   * [Contributing](#contributing)
   * [Usage](#usage)
   * [Questions](#questions)
+  * [Credits](#credits)
 
 
   ## License
@@ -52,3 +53,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
   [kstensing](https://gihub.com/kstensing)
   .
 
+## Credits
+Photo by Zoltan Tasi on [Unsplash](https://unsplash.com/@zoltantasi)
