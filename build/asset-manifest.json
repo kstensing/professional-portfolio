@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.e3d41f1e.css",
+    "main.js": "/professional-portfolio/static/js/main.ca190c15.js",
+    "static/js/787.e25191c7.chunk.js": "/professional-portfolio/static/js/787.e25191c7.chunk.js",
+    "static/media/orangeflower.jpg": "/professional-portfolio/static/media/orangeflower.64b82740809f61069db5.jpg",
+    "static/media/travelers-hidden-gems.jpg": "/professional-portfolio/static/media/travelers-hidden-gems.4aa1c8525c21f22b9251.jpg",
+    "static/media/portrait.jpg": "/professional-portfolio/static/media/portrait.402a9e84a4978009b611.jpg",
+    "static/media/tech-blog.jpg": "/professional-portfolio/static/media/tech-blog.f5d7f22b29113ca1f8e8.jpg",
+    "static/media/weather-dashboard.jpg": "/professional-portfolio/static/media/weather-dashboard.31f1edd9b93ba1d341e1.jpg",
+    "static/media/work-day-scheduler.jpg": "/professional-portfolio/static/media/work-day-scheduler.23756d4e7ffe0676f5a5.jpg",
+    "static/media/fantastic-four.jpg": "/professional-portfolio/static/media/fantastic-four.e5ed03edc25170dd3b07.jpg",
+    "static/media/code-quiz.jpg": "/professional-portfolio/static/media/code-quiz.c1677018ad722847aa29.jpg",
+    "index.html": "/professional-portfolio/index.html",
+    "main.e3d41f1e.css.map": "/professional-portfolio/static/css/main.e3d41f1e.css.map",
+    "main.ca190c15.js.map": "/professional-portfolio/static/js/main.ca190c15.js.map",
+    "787.e25191c7.chunk.js.map": "/professional-portfolio/static/js/787.e25191c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3d41f1e.css",
+    "static/js/main.ca190c15.js"
+  ]
+}
