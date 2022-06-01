@@ -4,6 +4,12 @@ const Project = ({ index }) => {
 
   const projects = [
     {
+        title: 'Fixture',
+        image: 'fixture',
+        linkApplication: 'https://peaceful-fjord-92696.herokuapp.com/',
+        linkRepo:'https://github.com/kstensing/tech-blog'
+    },
+    {
         title: 'Tech Blog',
         image: 'tech-blog',
         linkApplication: 'https://enigmatic-sierra-94103.herokuapp.com/',

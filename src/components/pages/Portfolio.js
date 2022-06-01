@@ -11,6 +11,7 @@ function Portfolio() {
       <Project index={3} />
       <Project index={4} />
       <Project index={5} />
+      <Project index={6} />
     </section>
   );
 }
