@@ -7,7 +7,7 @@ const Project = ({ index }) => {
         title: 'Fixture',
         image: 'fixture',
         linkApplication: 'https://peaceful-fjord-92696.herokuapp.com/',
-        linkRepo:'https://github.com/kstensing/tech-blog'
+        linkRepo:'https://github.com/kstensing/fixture'
     },
     {
         title: 'Tech Blog',
