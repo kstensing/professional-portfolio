@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/professional-portfolio/static/css/main.e3d41f1e.css",
-    "main.js": "/professional-portfolio/static/js/main.e0fb4cca.js",
+    "main.js": "/professional-portfolio/static/js/main.b45496cc.js",
     "static/js/787.e25191c7.chunk.js": "/professional-portfolio/static/js/787.e25191c7.chunk.js",
     "static/media/orangeflower.jpg": "/professional-portfolio/static/media/orangeflower.64b82740809f61069db5.jpg",
     "static/media/travelers-hidden-gems.jpg": "/professional-portfolio/static/media/travelers-hidden-gems.4aa1c8525c21f22b9251.jpg",
@@ -14,11 +14,11 @@
     "static/media/code-quiz.jpg": "/professional-portfolio/static/media/code-quiz.c1677018ad722847aa29.jpg",
     "index.html": "/professional-portfolio/index.html",
     "main.e3d41f1e.css.map": "/professional-portfolio/static/css/main.e3d41f1e.css.map",
-    "main.e0fb4cca.js.map": "/professional-portfolio/static/js/main.e0fb4cca.js.map",
+    "main.b45496cc.js.map": "/professional-portfolio/static/js/main.b45496cc.js.map",
     "787.e25191c7.chunk.js.map": "/professional-portfolio/static/js/787.e25191c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e3d41f1e.css",
-    "static/js/main.e0fb4cca.js"
+    "static/js/main.b45496cc.js"
   ]
 }
